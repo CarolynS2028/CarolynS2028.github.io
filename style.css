@@ -1,8 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&family=Gloock&family=Shippori+Mincho&display=swap');
+
 div {
-    border: 1px solid rgb(252, 182, 182);
-}
-#pfp {
-    height: 95px;
+    border: 2px solid #aa7f66;
+    padding:10px;
 }
 
+h1 {
+font-family: "Gloock", serif;
+color:#ff9393 !important;
+}
 
+h2 {
+font-family: "Castoro", serif;
+font-weight: 400;
+color: #aa7f66 !important;
+}
+
+#dec {
+    color: #aa7f66;
+}
+
+h3 {
+font-family: "Castoro", serif;
+color: #ff9393 !important;
+
+}
+
+h4 {
+font-family: "Castoro", serif;
+color:#ff9393 !important;
+
+}
+
+p {
+    font-family: "Shippori Mincho", serif;
+    padding: 5px;
+    color: #7f5836; 
+}
+
+li {
+    font-family: "Shippori Mincho", serif;
+    padding: 10px;
+    color: #7f5836; 
+} 
+
+
+
+body {
+    background-color: antiquewhite !important;
+} 
+
+.btn { 
+    color:#ff9393 !important;
+}
